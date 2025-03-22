@@ -1,8 +1,6 @@
 <h3 align="center">average young adult</h3>
 
-<p align="left"> <a href="https://twitter.com/mharizkia7" target="blank"><img src="https://img.shields.io/twitter/follow/mharizkia7?logo=twitter&style=for-the-badge" alt="mharizkia7" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/mharizkia7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mharizkia7" height="30" width="40" /></a>
 <a href="https://instagram.com/@mharizkiaig7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mharizkiaig7" height="30" width="40" /></a>
