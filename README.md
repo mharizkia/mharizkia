@@ -1,4 +1,4 @@
-<h3 align="center">average young adult</h3>
+<h4>average young adult</h4>
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
